@@ -1,4 +1,4 @@
-=== Camptix - Automatic Gravatar Fetch and Export ===
+=== Camptix - Gravatar Fetch and Export ===
 Contributors: bansod_deven
 Tags: camptix, camptix-addon, gravatars, gravatar, fetch, export, automate
 Requires at least: 4
