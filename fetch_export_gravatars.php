@@ -181,7 +181,7 @@ class CampTix_Addon_Gravatar_Fetch extends CampTix_Addon {
 					</tr>
 					<tr>
 						<th><?php _e('Generate CSV for InDesign', 'camptix'); ?></th>
-						<td><label><input type="checkbox" name="tix_export_include_gravatars" value="1" /> <?php _e('Include Gravatars' , 'camptix'); ?></label></td>
+						<td><label><input type="checkbox" name="tix_export_include_gravatars" value="1" selected="selected"/> <?php _e('Include Gravatars' , 'camptix'); ?></label></td>
 					</tr>
 					<tr>
 						<th><?php _e('Enter Folder/ Directory Path relative to WP ABSPATH to store the temp Zip File '); ?></th>
